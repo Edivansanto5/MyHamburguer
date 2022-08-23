@@ -37,6 +37,32 @@
                 "tipo":"Veggie Burgue"
             }
 
+        ],
+        "Opicionais":[
+            {
+                "id": 1,
+                "tipo":"Bacon"
+            },
+            {
+                "id": 2,
+                "tipo":"Cheddar"
+            },
+            {
+                "id": 3,
+                "tipo":"Salame"
+            },
+            {
+                "id":4,
+                "tipo":"Tomate"
+            },
+            {
+                "id": 5,
+                "tipo":"Cebola roxa"
+            },
+            {
+                "id": 6,
+                "tipo":"Pepino"
+            }
         ]
     }
 }
