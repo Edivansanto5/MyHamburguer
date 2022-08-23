@@ -1,0 +1,23 @@
+{
+    "ingredientes": {
+        "paes": [
+            {
+                "id": 1,
+                "tipo": "Italiano Branco"
+            },
+            {
+                "id": 2,
+                "tipo":"3 Queijos"
+            },
+            {
+                "id": 3,
+                "tipo":"Parmesão Orégano"
+                
+            },
+            {
+                "id": 4,
+                "tipo":"Integral"
+            }
+        ]
+    }
+}
